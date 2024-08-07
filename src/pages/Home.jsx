@@ -2,7 +2,7 @@ import React from "react";
 import { Card } from "reactstrap";
 import BaseComponent from "../components/BaseComponent";
 import Typewriter from "typewriter-effect";
-import blog2 from "../images/blog2.jpg";
+import blog2 from "../images/blog2.png";
 import { Link } from "react-router-dom";
 function Home() {
   return (
